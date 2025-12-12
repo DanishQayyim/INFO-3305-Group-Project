@@ -152,7 +152,7 @@ The development of the Leafe Mart web application is subject to several limitati
 
 **1.6 PROJECT STAGES**  
 **![][image2]**  
-![][image3]
+**![][image3]**
 
 **1.7 SIGNIFICANCE OF THE PROJECT**
 
